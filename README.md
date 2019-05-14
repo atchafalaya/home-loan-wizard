@@ -161,6 +161,7 @@
   6. If the customer has both a bankruptcy and a foreclosure, provide the email for our financial counselling services.
   
   7. For any cash purchases, route to Stella, and for any down payment of $250k or higher, loop in Melissa.
+  
 </details>
 
 ### Performance Requirements
