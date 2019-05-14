@@ -145,13 +145,21 @@
 ### Distribution Rules
 
 <details>
-  <summary>On submission, routing is determined...</summary> using the following rules.
+  <summary>On submission, routing is determined...</summary> 
+  using the following rules.
+  
   1. If the loan is for purchasing a primary home, Steve will handle it.
+  
   2. To handle a purchase of a secondary or rental property, Jan will take care of them.
+  
   3. For HELOC or Refinance purposes, route the customer to the corporate lending offices.
+  
   4. For any multi-family dwelling, have our business banker Mike contact the customer, and provide his info.
+  
   5. If the customer has Fair or Poor credit, OR has a bankruptcy or foreclosure, reject the application out of hand.
+  
   6. If the customer has both a bankruptcy and a foreclosure, provide the email for our financial counselling services.
+  
   7. For any cash purchases, route to Stella, and for any down payment of $250k or higher, loop in Melissa.
 </details>
 
