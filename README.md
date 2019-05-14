@@ -139,7 +139,20 @@
   12. Summary screen
     * This screen will show the user an overview of the information provided, and will allow them to submit the report, or to star the form over.
 
-  Once the submit button is selected, the form will be sent to the lenders' server for appropriate distribution within their systems.
+  Once the submit button is selected, the form will be sent to the lenders' server for appropriate distribution within their systems, and a summary of that distribution will be displayed.
+</details>
+
+### Distribution Rules
+
+<details>
+  <summary>On submission, routing is determined...</summary> using the following rules.
+  1. If the loan is for purchasing a primary home, Steve will handle it.
+  2. To handle a purchase of a secondary or rental property, Jan will take care of them.
+  3. For HELOC or Refinance purposes, route the customer to the corporate lending offices.
+  4. For any multi-family dwelling, have our business banker Mike contact the customer, and provide his info.
+  5. If the customer has Fair or Poor credit, OR has a bankruptcy or foreclosure, reject the application out of hand.
+  6. If the customer has both a bankruptcy and a foreclosure, provide the email for our financial counselling services.
+  7. For any cash purchases, route to Stella, and for any down payment of $250k or higher, loop in Melissa.
 </details>
 
 ### Performance Requirements
