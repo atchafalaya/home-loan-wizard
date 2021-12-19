@@ -1,3 +1,3 @@
 Decision Table
 
-![/decision-table.png](decision-table)
+![decision-table.png](/decision-table.png)
